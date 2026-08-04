@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
-import { FiChevronsLeftRight } from "react-icons/fi";
+import { FaExchangeAlt } from "react-icons/fa";
 
 interface BeforeAfterSliderProps {
   beforeImage: string;
@@ -68,7 +68,7 @@ export const BeforeAfterSlider: React.FC<BeforeAfterSliderProps> = ({
           style={{ left: `${sliderPos}%` }}
         >
           <div className="absolute top-1/2 -translate-y-1/2 -translate-x-1/2 w-9 h-9 rounded-full bg-primary text-on-primary border-2 border-white flex items-center justify-center text-lg shadow-xl">
-            <FiChevronsLeftRight />
+            <FaExchangeAlt />
           </div>
         </div>
 

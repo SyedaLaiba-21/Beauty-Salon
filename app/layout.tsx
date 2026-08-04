@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Playfair_Display, Manrope } from "next/font/google";
 import { Toaster } from "react-hot-toast";
 import "./globals.css";
@@ -17,6 +17,12 @@ const manrope = Manrope({
   display: "swap",
   weight: ["400", "500", "600", "700"],
 });
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1.0,
+  themeColor: "#492828",
+};
 
 export const metadata: Metadata = {
   title: "Beauty & Health | Modern Luxury Aesthetics & Spa Salon",
@@ -48,8 +54,6 @@ export const metadata: Metadata = {
     description:
       "Experience world-class luxury beauty, skincare, hair styling, and spa treatments.",
   },
-  viewport: "width=device-width, initial-scale=1.0",
-  themeColor: "#492828",
 };
 
 export default function RootLayout({
