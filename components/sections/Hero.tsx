@@ -16,7 +16,7 @@ export const Hero: React.FC = () => {
           className="w-full h-full bg-cover bg-center bg-no-repeat absolute top-0 left-0"
           style={{
             backgroundImage:
-              "url('https://lh3.googleusercontent.com/aida-public/AB6AXuBHT1Y6sW99H0ZJsZD6SmUiYsal2iy6uoIPgf4ARlfKuhgd7iunwbl_w8c0ByrnRyarBBFUuc27mSW8WYOjFT3EuhYOXdm1l3H1B0YbhbZ7LcIkDsF41uSetaIpTHxq237e6JnMJ4KOOQM-Qci365_7AY_oyjhwAIhwoML5oejTkrg4O0nxbxJl6SOZ4jVBRLZNk96qT62IWtgToWANtYObZ7zgmeCiWd7LVTUD3sa-rB9kgj9DFikYAA')",
+              "url('https://images.unsplash.com/photo-1560750588-73207b1ef5b8?q=90&w=1920&auto=format&fit=crop')",
           }}
         />
       </div>

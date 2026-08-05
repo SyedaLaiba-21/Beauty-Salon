@@ -9,16 +9,16 @@ const BEFORE_AFTER_DATA = [
   {
     title: "Signature HydraFacial & Skin Revitalization",
     beforeImage:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBG96E6SQodW2KWSot8yXuOmbzNC9HZNWj4B7wStCaU_LtBjxXkf54rpSv0SHRk5ZOKhzzTF8HJl7qoDzK51lX5sWkjx-Rf34Bsvw5lgC63gF8g0w0d93fVPAHpfPSVn2haQY3q5HLbWL8LF-iehVwjxpG41WnaaShhdNjm76xHepyFzW-0r5q3K94M5BJHMyW6-xXoFkTWQIdAIwzJHhJlCK4gH1R5QK2AKqbqcICbbGbPFu24ZjytAw",
+      "https://images.unsplash.com/photo-1512290900676-26c2a5a545c7?q=90&w=1200&auto=format&fit=crop",
     afterImage:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAU1_erP-h68sG3Rhye2V81JY_rkqv-vf_JXHdFFn85Pgdi16S9UY0-Ojda24ljhAe9DZ1hIKGM37uvNs4KYxuOYCPN4jpz8DAZkY13NepvbGvLK1oop9ty9J3dVaw4Wbb9FeKiOgIW6N0Jb1u5dek5xyxs1sfaC4PpQ7u3WkihE0l0NJpPklpZR0KS--7gjplG985lyfIYgrQkkyMlmkxoNanAu3BiUC76F_LsUyZ0QvYRE1a0rWtqlQ",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=90&w=1200&auto=format&fit=crop",
   },
   {
     title: "Russian Hardware Gel Manicure & Nail Polish",
     beforeImage:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDMfE2uTullGsz4_baQuRnlwqhLA2VpGMGlkV1R4en-sNd0JYGoEgQolWhqFClpVp6EYcv242Jh3CBTCFRldiND91CWLwnFMYamDQ1k_B7LicjVyntwyOo4xOpDh9_zEOoMzsDOn9yNPtOiqHmytjEziZtBfp3_FYN0hzXvuVlD1CEP6RbBy0nAQxC7KgahUXLAMYKbEzODuQ_g3dxkoM2zFuGsBg_BIWHq0KEYYyF9lFAblagD3iw_xg",
+      "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=90&w=1200&auto=format&fit=crop",
     afterImage:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAbQ_GZTAiKMQqoeGug1xlVGEzdDv0apjapA5dFNafFW9LOv_kNOIWIoiuxlZsuq3xpuxs_hmjSW8mhVIqoX7OUcqL1T1JFod9YYxn1PYkPi8Elg17G6PRBv0pvflPKx4VMcQx6sXV2IyaSp-HbKktSjnyd1pHIxLXKv_qWDYGJ8ZO1-fjpwukPwldMyot_pjWjiHh14cIDjgaS7z4UlLwcF0Z8O_YxYnybxD4POb3wBygV4WK5aJuKnQ",
+      "https://images.unsplash.com/photo-1604654894610-df63bc536371?q=90&w=1200&auto=format&fit=crop",
   },
 ];
 

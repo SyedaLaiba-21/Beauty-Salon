@@ -10,14 +10,15 @@ import {
 export const SITE_INFO = {
   name: "Beauty & Health",
   tagline: "Modern Luxury Aesthetics & Wellness Center",
-  phone: "+92 300 1234567",
-  whatsapp: "+923001234567",
-  email: "contact@beautysalon.com",
-  address: "Block H3, Johar Town, Lahore, Pakistan",
-  googleMapsUrl: "https://maps.google.com/?q=Lahore+Pakistan",
-  facebookUrl: "https://facebook.com/beautysalon.official",
-  instagramUrl: "https://instagram.com/beautysalon.official",
-  tiktokUrl: "https://tiktok.com/@beautysalon.official",
+  phone: "03374005515",
+  whatsapp: "923374005515",
+  email: "info@tech4edges.com",
+  address: "Office No 322 (A) Block D, 3rd Floor Sami Tower, Ring Road Peshawar",
+  googleMapsUrl: "https://maps.google.com/?q=Sami+Tower+Ring+Road+Peshawar",
+  facebookUrl: "https://www.facebook.com/share/1857BNt9zY/",
+  instagramUrl: "https://www.instagram.com/tech4edgesofficial?igsh=YzZoNnVubHkzMnlv",
+  linkedinUrl: "https://www.linkedin.com/company/tech4edges/",
+  tiktokUrl: "https://www.instagram.com/tech4edgesofficial?igsh=YzZoNnVubHkzMnlv",
 };
 
 export const NAV_LINKS = [
@@ -43,7 +44,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     price: "From PKR 4,500",
     duration: "60 Min",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBG96E6SQodW2KWSot8yXuOmbzNC9HZNWj4B7wStCaU_LtBjxXkf54rpSv0SHRk5ZOKhzzTF8HJl7qoDzK51lX5sWkjx-Rf34Bsvw5lgC63gF8g0w0d93fVPAHpfPSVn2haQY3q5HLbWL8LF-iehVwjxpG41WnaaShhdNjm76xHepyFzW-0r5q3K94M5BJHMyW6-xXoFkTWQIdAIwzJHhJlCK4gH1R5QK2AKqbqcICbbGbPFu24ZjytAw",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=90&w=1600&auto=format&fit=crop",
     alt: "Skincare and beauty care treatment aesthetic mockup",
   },
   {
@@ -55,7 +56,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     price: "From PKR 6,000",
     duration: "90 Min",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBiSovcWHfSP0T7Czc9CK6ZLDTPXGrMXGHBtzupq_OdXBPULPJ638p34CFZcobsRikpzpZePeU4FmI-pE__JCOQIdIlSm1Ny0tEJPxhiRCkrHuskCS7rmOQ1nJOiQtYzxyU9zZClmWZ16jWoIDTcPhXZDpmOG7v5om9_xmENS9JS3i9x0UToVaPfVOhCEiM4mGb0I712cCWzlnHbpvy8vrp4qG4xTPgrPOn_eoRihQgafxPEOfLBj79Bg",
+      "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=90&w=1600&auto=format&fit=crop",
     alt: "Spa massage and wellness center visual",
   },
   {
@@ -67,7 +68,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     price: "From PKR 8,000",
     duration: "75 Min",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBB9Ty6ut9DyY1_pt-iTxiauRzjm1bJuarV4_x59VSndzeJZoJA7A46L44FyR73X-786v8N7yQwTUu7ToIi_u7pMUDFZ82pa5_zBYvD8O8lK9X62IEMSru0INXk6nNl_h_CsEZDpNNee45vUo01CCXgZFPuKghhRfDKDWeaIcY3X5E8V2oOMd6LfzuwDFKn8zg_eATpozbipf9zPfvOTBhck68x19PXXeZrlqVVQthh33xXAjQHhzSlfQ",
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=90&w=1600&auto=format&fit=crop",
     alt: "Professional makeup artist portfolio and glam preview",
   },
   {
@@ -79,7 +80,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     price: "From PKR 3,000",
     duration: "45 Min",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDMfE2uTullGsz4_baQuRnlwqhLA2VpGMGlkV1R4en-sNd0JYGoEgQolWhqFClpVp6EYcv242Jh3CBTCFRldiND91CWLwnFMYamDQ1k_B7LicjVyntwyOo4xOpDh9_zEOoMzsDOn9yNPtOiqHmytjEziZtBfp3_FYN0hzXvuVlD1CEP6RbBy0nAQxC7KgahUXLAMYKbEzODuQ_g3dxkoM2zFuGsBg_BIWHq0KEYYyF9lFAblagD3iw_xg",
+      "https://images.unsplash.com/photo-1604654894610-df63bc536371?q=90&w=1600&auto=format&fit=crop",
     alt: "Nail salon luxury manicure and gel art mockup",
   },
   {
@@ -91,7 +92,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     price: "From PKR 10,000",
     duration: "60 Min",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAU1_erP-h68sG3Rhye2V81JY_rkqv-vf_JXHdFFn85Pgdi16S9UY0-Ojda24ljhAe9DZ1hIKGM37uvNs4KYxuOYCPN4jpz8DAZkY13NepvbGvLK1oop9ty9J3dVaw4Wbb9FeKiOgIW6N0Jb1u5dek5xyxs1sfaC4PpQ7u3WkihE0l0NJpPklpZR0KS--7gjplG985lyfIYgrQkkyMlmkxoNanAu3BiUC76F_LsUyZ0QvYRE1a0rWtqlQ",
+      "https://images.unsplash.com/photo-1512290900676-26c2a5a545c7?q=90&w=1600&auto=format&fit=crop",
     alt: "Dermatology clinical skincare facial preview",
   },
   {
@@ -103,7 +104,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     price: "From PKR 2,500",
     duration: "Instant",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAbQ_GZTAiKMQqoeGug1xlVGEzdDv0apjapA5dFNafFW9LOv_kNOIWIoiuxlZsuq3xpuxs_hmjSW8mhVIqoX7OUcqL1T1JFod9YYxn1PYkPi8Elg17G6PRBv0pvflPKx4VMcQx6sXV2IyaSp-HbKktSjnyd1pHIxLXKv_qWDYGJ8ZO1-fjpwukPwldMyot_pjWjiHh14cIDjgaS7z4UlLwcF0Z8O_YxYnybxD4POb3wBygV4WK5aJuKnQ",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=90&w=1600&auto=format&fit=crop",
     alt: "Luxury beauty products boutique collection preview",
   },
 ];
@@ -112,25 +113,25 @@ export const INNER_PAGES_TEMPLATES = [
   {
     title: "About Us",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBN1VIJqmq3weDBGdWdGV0-i3EeCvhMIS9mB-EVy-riDlMF-c6CuSs5jg6ifo0o7RPBeywCWpd_3ezURj1GCXzS1c9zjRpA_QBA0Z46msIAng_sJeGZC54JeNYULAf_gOT-Ed3-JCzyOqDQ0mkIxcNBgMbRXoevBngdMJaNf7a_duyY44bMmCbzDuVW6fL0vM02ODZms7R5rvR5ObfvHlc9fddtxmqW9Dafn-rqwM3rR69MFni7BBbnPw",
+      "https://images.unsplash.com/photo-1560066984-138dadb4c035?q=90&w=1600&auto=format&fit=crop",
     alt: "About Us luxury page mockup",
   },
   {
     title: "Our Team",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuCEQRYbWofjTLSjQjAPUmx7YYRmlsLzozPGFAIYqBwFPvM6OFWQiyaoMnTdbfk7EJMNXEMnnNfgkW3b5-7rnwnDIZtEjMck-vOudL1QONIzKMl-5E7c4avVtoUZ2sjfX1GChis3tA5rAWSiegmznhAbWOkxAbukA30sicwHjdoqtgjK_fAstcUVNsUT3R3zPtXJOvoxG0zW2qWr1fhqi0LViglVrdER8ysH-Z7ebnLBQPllQT1YaFcS1A",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=90&w=1600&auto=format&fit=crop",
     alt: "Our Team beauty experts template mockup",
   },
   {
     title: "Our Services",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuCxxvavI2DMR_yLX097D79AFNxEWzVxC3-kR-TcAEe1Yq5DZEEB3RBmyxof1IncYImeqKm83h58PbMVL6GS6eP29p__jDNVWL9jz4xkc3Et9I6radOVis8hMLYVZxFhR4DHwRuFB-gmkPh045b1eauuD-_hgjRJ7MeEh26lqLZMdG2AzSdFfdJR-0ouQQzS1tr4_j0oDZVd4qx0pccC--dVoPWaP4tAdRCyDbUGTChlBhY8oWb6phS9Cg",
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=90&w=1600&auto=format&fit=crop",
     alt: "Our Services inner page menu mockup",
   },
   {
     title: "Coming Soon",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuD2aHFjtNqs4nWbVTQQe4WU1utuM0IEswkhwFkkitQvJqFgTuYIHjgbpQjaQqrqOQPCwx4X8XoSy4eL6VyDuAV0HL0HhiCXdV3ra3bHQfKtKJ8GMixKon0jt8hMaWKV6u7tmo_J4KKz3Y8MY4AvPab6S42puC4XLYw2hESG7fJLftcuM4fbFmrXF4XEW9GcWnvGE7EnHNNd8DAHMD_qiLbl9cvNhuv9jA-eaFDY2CVTi0-DnKJEHxMHdA",
+      "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?q=90&w=1600&auto=format&fit=crop",
     alt: "Coming Soon template mockup",
   },
 ];
@@ -190,36 +191,36 @@ export const TEAM_MEMBERS: TeamMember[] = [
     name: "Dr. Aliza Hassan",
     role: "Lead Dermatologist & Aesthetician",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAU1_erP-h68sG3Rhye2V81JY_rkqv-vf_JXHdFFn85Pgdi16S9UY0-Ojda24ljhAe9DZ1hIKGM37uvNs4KYxuOYCPN4jpz8DAZkY13NepvbGvLK1oop9ty9J3dVaw4Wbb9FeKiOgIW6N0Jb1u5dek5xyxs1sfaC4PpQ7u3WkihE0l0NJpPklpZR0KS--7gjplG985lyfIYgrQkkyMlmkxoNanAu3BiUC76F_LsUyZ0QvYRE1a0rWtqlQ",
+      "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=90&w=1000&auto=format&fit=crop",
     bio: "12+ years experience in clinical skincare, anti-aging therapies, and precision laser aesthetics.",
-    socials: { instagram: "#", facebook: "#" },
+    socials: { instagram: "https://www.instagram.com/tech4edgesofficial?igsh=YzZoNnVubHkzMnlv", facebook: "https://www.facebook.com/share/1857BNt9zY/" },
   },
   {
     id: "zara-khan",
     name: "Zara Khan",
     role: "Senior Bridal & Glam Artist",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBB9Ty6ut9DyY1_pt-iTxiauRzjm1bJuarV4_x59VSndzeJZoJA7A46L44FyR73X-786v8N7yQwTUu7ToIi_u7pMUDFZ82pa5_zBYvD8O8lK9X62IEMSru0INXk6nNl_h_CsEZDpNNee45vUo01CCXgZFPuKghhRfDKDWeaIcY3X5E8V2oOMd6LfzuwDFKn8zg_eATpozbipf9zPfvOTBhck68x19PXXeZrlqVVQthh33xXAjQHhzSlfQ",
+      "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=90&w=1000&auto=format&fit=crop",
     bio: "Celebrity makeup artist specializing in soft glam, airbrush bridal perfection, and modern trends.",
-    socials: { instagram: "#", facebook: "#" },
+    socials: { instagram: "https://www.instagram.com/tech4edgesofficial?igsh=YzZoNnVubHkzMnlv", facebook: "https://www.facebook.com/share/1857BNt9zY/" },
   },
   {
     id: "sophia-malik",
     name: "Sophia Malik",
     role: "Master Spa Therapist",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBiSovcWHfSP0T7Czc9CK6ZLDTPXGrMXGHBtzupq_OdXBPULPJ638p34CFZcobsRikpzpZePeU4FmI-pE__JCOQIdIlSm1Ny0tEJPxhiRCkrHuskCS7rmOQ1nJOiQtYzxyU9zZClmWZ16jWoIDTcPhXZDpmOG7v5om9_xmENS9JS3i9x0UToVaPfVOhCEiM4mGb0I712cCWzlnHbpvy8vrp4qG4xTPgrPOn_eoRihQgafxPEOfLBj79Bg",
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=90&w=1000&auto=format&fit=crop",
     bio: "Certified holistic wellness practitioner specializing in hot stone massage and aromatherapy detox.",
-    socials: { instagram: "#", facebook: "#" },
+    socials: { instagram: "https://www.instagram.com/tech4edgesofficial?igsh=YzZoNnVubHkzMnlv", facebook: "https://www.facebook.com/share/1857BNt9zY/" },
   },
   {
     id: "elena-rostova",
     name: "Elena Rostova",
     role: "Senior Nail & Art Specialist",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDMfE2uTullGsz4_baQuRnlwqhLA2VpGMGlkV1R4en-sNd0JYGoEgQolWhqFClpVp6EYcv242Jh3CBTCFRldiND91CWLwnFMYamDQ1k_B7LicjVyntwyOo4xOpDh9_zEOoMzsDOn9yNPtOiqHmytjEziZtBfp3_FYN0hzXvuVlD1CEP6RbBy0nAQxC7KgahUXLAMYKbEzODuQ_g3dxkoM2zFuGsBg_BIWHq0KEYYyF9lFAblagD3iw_xg",
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=90&w=1000&auto=format&fit=crop",
     bio: "Expert in Russian hardware manicures, sculptured acrylics, and minimalist aesthetic nail art.",
-    socials: { instagram: "#", facebook: "#" },
+    socials: { instagram: "https://www.instagram.com/tech4edgesofficial?igsh=YzZoNnVubHkzMnlv", facebook: "https://www.facebook.com/share/1857BNt9zY/" },
   },
 ];
 
@@ -230,7 +231,7 @@ export const TESTIMONIALS: Testimonial[] = [
     role: "Bridal Client",
     service: "Signature Bridal Glow & Glam",
     avatar:
-      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=90&w=600&auto=format&fit=crop",
     rating: 5,
     comment:
       "The bridal package at Beauty & Health was an unforgettable experience. My makeup stayed flawless all night and my skin was literally glowing. The staff is so respectful and professional!",
@@ -241,7 +242,7 @@ export const TESTIMONIALS: Testimonial[] = [
     role: "Regular Member",
     service: "HydraFacial & Russian Manicure",
     avatar:
-      "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=90&w=600&auto=format&fit=crop",
     rating: 5,
     comment:
       "As a physician, hygiene and skin safety are my top priorities. Beauty & Health exceeds every clinical cleanliness standard while delivering pure luxury.",
@@ -252,7 +253,7 @@ export const TESTIMONIALS: Testimonial[] = [
     role: "Spa Enthusiast",
     service: "Hot Stone Aromatherapy Spa",
     avatar:
-      "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=90&w=600&auto=format&fit=crop",
     rating: 5,
     comment:
       "The hot stone massage melted away months of stress. The serene ambiance, warm lighting, and therapeutic oils make this salon my absolute sanctuary.",
@@ -268,7 +269,7 @@ export const BLOG_POSTS: BlogPost[] = [
     excerpt:
       "Discover dermatologist-approved steps to shield your skin from summer UV heat while maintaining a dewy, hydrated complexion.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBG96E6SQodW2KWSot8yXuOmbzNC9HZNWj4B7wStCaU_LtBjxXkf54rpSv0SHRk5ZOKhzzTF8HJl7qoDzK51lX5sWkjx-Rf34Bsvw5lgC63gF8g0w0d93fVPAHpfPSVn2haQY3q5HLbWL8LF-iehVwjxpG41WnaaShhdNjm76xHepyFzW-0r5q3K94M5BJHMyW6-xXoFkTWQIdAIwzJHhJlCK4gH1R5QK2AKqbqcICbbGbPFu24ZjytAw",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=90&w=1600&auto=format&fit=crop",
     readTime: "5 min read",
   },
   {
@@ -279,7 +280,7 @@ export const BLOG_POSTS: BlogPost[] = [
     excerpt:
       "Explore how dry cuticle care promotes longer nail retention, zero irritation, and flawless gel application.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDMfE2uTullGsz4_baQuRnlwqhLA2VpGMGlkV1R4en-sNd0JYGoEgQolWhqFClpVp6EYcv242Jh3CBTCFRldiND91CWLwnFMYamDQ1k_B7LicjVyntwyOo4xOpDh9_zEOoMzsDOn9yNPtOiqHmytjEziZtBfp3_FYN0hzXvuVlD1CEP6RbBy0nAQxC7KgahUXLAMYKbEzODuQ_g3dxkoM2zFuGsBg_BIWHq0KEYYyF9lFAblagD3iw_xg",
+      "https://images.unsplash.com/photo-1604654894610-df63bc536371?q=90&w=1600&auto=format&fit=crop",
     readTime: "4 min read",
   },
   {
@@ -290,7 +291,7 @@ export const BLOG_POSTS: BlogPost[] = [
     excerpt:
       "Whether fighting hyperpigmentation or fine lines, learn which facial technology matches your exact skin type.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAU1_erP-h68sG3Rhye2V81JY_rkqv-vf_JXHdFFn85Pgdi16S9UY0-Ojda24ljhAe9DZ1hIKGM37uvNs4KYxuOYCPN4jpz8DAZkY13NepvbGvLK1oop9ty9J3dVaw4Wbb9FeKiOgIW6N0Jb1u5dek5xyxs1sfaC4PpQ7u3WkihE0l0NJpPklpZR0KS--7gjplG985lyfIYgrQkkyMlmkxoNanAu3BiUC76F_LsUyZ0QvYRE1a0rWtqlQ",
+      "https://images.unsplash.com/photo-1512290900676-26c2a5a545c7?q=90&w=1600&auto=format&fit=crop",
     readTime: "6 min read",
   },
 ];

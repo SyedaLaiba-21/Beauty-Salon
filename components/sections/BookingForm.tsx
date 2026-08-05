@@ -107,7 +107,7 @@ export const BookingForm: React.FC = () => {
               {/* Phone Number */}
               <InputField
                 label="Phone Number (Pakistan)"
-                placeholder="+923001234567 or 03001234567"
+                placeholder="+923374005515 or 03374005515"
                 required
                 icon={<FiPhone />}
                 error={errors.user_phone}

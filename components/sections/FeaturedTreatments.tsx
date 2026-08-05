@@ -13,7 +13,7 @@ export const FeaturedTreatments: React.FC = () => {
             className="w-full h-full bg-cover bg-center"
             style={{
               backgroundImage:
-                "url('https://lh3.googleusercontent.com/aida-public/AB6AXuDVFqaDBw3vkwa5RuFqhPfbAo0aELff6YaV_USsEhucLlJ-FZQ-c_3TmKEJczFEtQmxBlmGb6puDSEnwLfNi8g-e-8MExH0z1BiBKXvDize92NSyLGsECdpjGtvk6G7ybgRh_TGa9VqP7vAUoedZV7rlUTASfBgcpuZqhZw02tGIcuAq-4GX7HEG9SRpGFkcXdyjIMCu9XiUbtHo9sUTVATFHZ6T63_2tOYaUONAqjPDUBrY0xM7pJHpg')",
+                "url('https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=90&w=1920&auto=format&fit=crop')",
             }}
           />
           <div className="absolute inset-0 bg-primary/20 mix-blend-multiply" />
@@ -38,7 +38,7 @@ export const FeaturedTreatments: React.FC = () => {
             className="w-full h-full bg-cover bg-center"
             style={{
               backgroundImage:
-                "url('https://lh3.googleusercontent.com/aida-public/AB6AXuB0rEwdRvDskTLalaz1Ga-Si-6HyhGXqMoSwzG3YuxocA9WIZwZcVGpVQrS7CZ6aXw6d9ErMZRKjojklIVoNCdQoxGakOL4_FQNM8hhpVEQUKm9qvQTXLABdJiIbT-h4YRwXBWbENJ2BnEC7qbmQ7KqsNF5U_vcH3BnuttPpm7LAt0af62lIWoSksO_3qFyVHoDQwX1wTJfhudDWx37BXy3wxlkbMcQ-obA0aOc_XYcO0zMMSuVxvZHmQ')",
+                "url('https://images.unsplash.com/photo-1560066984-138dadb4c035?q=90&w=1920&auto=format&fit=crop')",
             }}
           />
           <div className="absolute inset-0 bg-primary/40 mix-blend-multiply" />

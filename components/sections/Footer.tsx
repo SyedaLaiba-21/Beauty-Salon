@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { SITE_INFO } from "@/lib/constants";
-import { FaFacebookF, FaInstagram, FaTiktok, FaWhatsapp } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 
 export const Footer: React.FC = () => {
   return (
@@ -71,13 +71,13 @@ export const Footer: React.FC = () => {
           <FaInstagram />
         </a>
         <a
-          href={SITE_INFO.tiktokUrl}
+          href={SITE_INFO.linkedinUrl}
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 hover:text-on-primary hover:scale-125 transition-all"
-          aria-label="TikTok"
+          aria-label="LinkedIn"
         >
-          <FaTiktok />
+          <FaLinkedin />
         </a>
         <a
           href={`https://wa.me/${SITE_INFO.whatsapp.replace("+", "")}`}

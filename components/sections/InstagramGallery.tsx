@@ -9,32 +9,32 @@ import { motion } from "framer-motion";
 const INSTAGRAM_POSTS = [
   {
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBG96E6SQodW2KWSot8yXuOmbzNC9HZNWj4B7wStCaU_LtBjxXkf54rpSv0SHRk5ZOKhzzTF8HJl7qoDzK51lX5sWkjx-Rf34Bsvw5lgC63gF8g0w0d93fVPAHpfPSVn2haQY3q5HLbWL8LF-iehVwjxpG41WnaaShhdNjm76xHepyFzW-0r5q3K94M5BJHMyW6-xXoFkTWQIdAIwzJHhJlCK4gH1R5QK2AKqbqcICbbGbPFu24ZjytAw",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=90&w=1000&auto=format&fit=crop",
     alt: "Skincare glow treatment post",
   },
   {
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBiSovcWHfSP0T7Czc9CK6ZLDTPXGrMXGHBtzupq_OdXBPULPJ638p34CFZcobsRikpzpZePeU4FmI-pE__JCOQIdIlSm1Ny0tEJPxhiRCkrHuskCS7rmOQ1nJOiQtYzxyU9zZClmWZ16jWoIDTcPhXZDpmOG7v5om9_xmENS9JS3i9x0UToVaPfVOhCEiM4mGb0I712cCWzlnHbpvy8vrp4qG4xTPgrPOn_eoRihQgafxPEOfLBj79Bg",
+      "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=90&w=1000&auto=format&fit=crop",
     alt: "Relaxing massage spa ritual post",
   },
   {
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBB9Ty6ut9DyY1_pt-iTxiauRzjm1bJuarV4_x59VSndzeJZoJA7A46L44FyR73X-786v8N7yQwTUu7ToIi_u7pMUDFZ82pa5_zBYvD8O8lK9X62IEMSru0INXk6nNl_h_CsEZDpNNee45vUo01CCXgZFPuKghhRfDKDWeaIcY3X5E8V2oOMd6LfzuwDFKn8zg_eATpozbipf9zPfvOTBhck68x19PXXeZrlqVVQthh33xXAjQHhzSlfQ",
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=90&w=1000&auto=format&fit=crop",
     alt: "Bridal makeup transformation post",
   },
   {
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDMfE2uTullGsz4_baQuRnlwqhLA2VpGMGlkV1R4en-sNd0JYGoEgQolWhqFClpVp6EYcv242Jh3CBTCFRldiND91CWLwnFMYamDQ1k_B7LicjVyntwyOo4xOpDh9_zEOoMzsDOn9yNPtOiqHmytjEziZtBfp3_FYN0hzXvuVlD1CEP6RbBy0nAQxC7KgahUXLAMYKbEzODuQ_g3dxkoM2zFuGsBg_BIWHq0KEYYyF9lFAblagD3iw_xg",
+      "https://images.unsplash.com/photo-1604654894610-df63bc536371?q=90&w=1000&auto=format&fit=crop",
     alt: "Nail salon Russian manicure gel art post",
   },
   {
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAU1_erP-h68sG3Rhye2V81JY_rkqv-vf_JXHdFFn85Pgdi16S9UY0-Ojda24ljhAe9DZ1hIKGM37uvNs4KYxuOYCPN4jpz8DAZkY13NepvbGvLK1oop9ty9J3dVaw4Wbb9FeKiOgIW6N0Jb1u5dek5xyxs1sfaC4PpQ7u3WkihE0l0NJpPklpZR0KS--7gjplG985lyfIYgrQkkyMlmkxoNanAu3BiUC76F_LsUyZ0QvYRE1a0rWtqlQ",
+      "https://images.unsplash.com/photo-1512290900676-26c2a5a545c7?q=90&w=1000&auto=format&fit=crop",
     alt: "Clinical skin therapy facial post",
   },
   {
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAbQ_GZTAiKMQqoeGug1xlVGEzdDv0apjapA5dFNafFW9LOv_kNOIWIoiuxlZsuq3xpuxs_hmjSW8mhVIqoX7OUcqL1T1JFod9YYxn1PYkPi8Elg17G6PRBv0pvflPKx4VMcQx6sXV2IyaSp-HbKktSjnyd1pHIxLXKv_qWDYGJ8ZO1-fjpwukPwldMyot_pjWjiHh14cIDjgaS7z4UlLwcF0Z8O_YxYnybxD4POb3wBygV4WK5aJuKnQ",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=90&w=1000&auto=format&fit=crop",
     alt: "Luxury organic cosmetics line post",
   },
 ];
@@ -46,7 +46,7 @@ export const InstagramGallery: React.FC = () => {
         <div className="inline-flex items-center gap-2 text-primary mb-2">
           <FaInstagram className="text-2xl" />
           <span className="font-manrope text-xs font-semibold uppercase tracking-[0.2em]">
-            FOLLOW @BEAUTYSALON.OFFICIAL
+            FOLLOW @TECH4EDGESOFFICIAL
           </span>
         </div>
         <h2 className="font-playfair text-3xl md:text-4xl text-primary">

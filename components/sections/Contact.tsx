@@ -100,7 +100,7 @@ export const Contact: React.FC = () => {
         <div className="w-full aspect-[4/3] bg-surface-container border border-outline-variant/30 overflow-hidden relative shadow-md">
           <iframe
             title="Salon Location Map"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13611.160166292523!2d74.2750!3d31.4680!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3919015f82b0b8c9%3A0x4a180122e2bbd8e!2sJohar%20Town%2C%20Lahore!5e0!3m2!1sen!2spk!4v1700000000000!5m2!1sen!2spk"
+            src="https://maps.google.com/maps?q=Office+No+322+(A)+Block+D,+3rd+Floor+Sami+Tower,+Ring+Road+Peshawar&t=&z=15&ie=UTF8&iwloc=&output=embed"
             width="100%"
             height="100%"
             style={{ border: 0 }}
